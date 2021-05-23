@@ -11,3 +11,12 @@ C:\Users\saggioni\Desktop\KlirV2\KlirTechChallenge\angular\obj\Debug\netcoreapp3
 C:\Users\saggioni\Desktop\KlirV2\KlirTechChallenge\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.csproj.CoreCompileInputs.cache
 C:\Users\saggioni\Desktop\KlirV2\KlirTechChallenge\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.dll
 C:\Users\saggioni\Desktop\KlirV2\KlirTechChallenge\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.pdb
+C:\Users\saggioni\Documents\Klir\angular\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.deps.json
+C:\Users\saggioni\Documents\Klir\angular\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.dll
+C:\Users\saggioni\Documents\Klir\angular\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.pdb
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.csprojAssemblyReference.cache
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.AssemblyInfoInputs.cache
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.AssemblyInfo.cs
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.csproj.CoreCompileInputs.cache
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.dll
+C:\Users\saggioni\Documents\Klir\angular\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Front.pdb

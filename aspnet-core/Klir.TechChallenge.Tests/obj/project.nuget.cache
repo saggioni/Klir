@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tuV+4kb3D6OYmJCPUum+tWfqV+LFG13n1uL/u4CZnF7ZYIqy9sK5+0xFkma8rWKfoiIQ66G4H8jZq8ZY7Q+XYQ==",
+  "dgSpecHash": "ySzmFDpmJs1if09Dzx/yhUSm9QduTrJ2kTWQP6KWFjqLknsLnSLFDjs3ky2Ot4jouhHR+6sshXL4yt+o76zQkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
+  "projectFilePath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saggioni\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\saggioni\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

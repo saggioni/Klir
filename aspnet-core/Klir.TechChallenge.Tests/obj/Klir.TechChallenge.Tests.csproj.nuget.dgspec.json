@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj": {}
+    "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj": {
+    "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
         "projectName": "Klir.TechChallenge.Tests",
-        "projectPath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
+        "projectPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\Klir.TechChallenge.Tests.csproj",
         "packagesPath": "C:\\Users\\saggioni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Tests\\obj\\",
+        "outputPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

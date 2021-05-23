@@ -728,11 +728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
       "projectName": "Klir.TechChallenge.Web.Api",
-      "projectPath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
+      "projectPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
       "packagesPath": "C:\\Users\\saggioni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

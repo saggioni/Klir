@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "khK9uyUEF5ZbQv9Tr8JIu3fWt7YOtcp00aA59ky2jCT9pTomWQzZ0c/LIOQJQa02xfooxq5n445xEUnmYJBHIQ==",
+  "dgSpecHash": "cQlGR8tJ2xsfAnVRgcMNTXBhpNfFwO9l51O15UgvbXuia7sMjY9HCn9mIK9hT/uimU1Hdz+YSo7WpbnsZcL0Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saggioni\\Desktop\\KlirV2\\KlirTechChallenge\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
+  "projectFilePath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saggioni\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saggioni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
