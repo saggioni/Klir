@@ -9,6 +9,7 @@
       "Klir.TechChallenge.Tests/1.0.0": {
         "dependencies": {
           "FluentAssertions": "5.10.3",
+          "Klir.TechChallenge.Adapter": "1.0.0",
           "Klir.TechChallenge.Domain": "1.0.0",
           "Klir.TechChallenge.UseCase": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
@@ -1240,6 +1241,14 @@
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
       },
+      "Klir.TechChallenge.Adapter/1.0.0": {
+        "dependencies": {
+          "Klir.TechChallenge.UseCase": "1.0.0"
+        },
+        "runtime": {
+          "Klir.TechChallenge.Adapter.dll": {}
+        }
+      },
       "Klir.TechChallenge.Domain/1.0.0": {
         "runtime": {
           "Klir.TechChallenge.Domain.dll": {}
@@ -1989,6 +1998,11 @@
       "sha512": "sha512-3eq5cGXbEJkqW9nwLuXwtxy9B5gMA8i7HW4rN63AhAvy5UvEcQbZnve23wx/oPrkyg/4CbfNhxkBezS0b1oUdQ==",
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    },
+    "Klir.TechChallenge.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Klir.TechChallenge.Domain/1.0.0": {
       "type": "project",

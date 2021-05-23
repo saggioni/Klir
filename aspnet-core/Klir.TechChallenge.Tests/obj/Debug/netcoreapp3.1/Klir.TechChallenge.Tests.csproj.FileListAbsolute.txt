@@ -201,3 +201,5 @@ C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.UseCase.pdb
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Adapter.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Adapter.pdb

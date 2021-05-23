@@ -16,13 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Klir.TechChallenge.Adapter\Klir.TechChallenge.Adapter.csproj" />
     <ProjectReference Include="..\Klir.TechChallenge.Domain\Klir.TechChallenge.Domain.csproj" />
     <ProjectReference Include="..\Klir.TechChallenge.UseCase\Klir.TechChallenge.UseCase.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-    <Folder Include="UseCases\" />
   </ItemGroup>
 
 </Project>

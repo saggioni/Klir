@@ -1858,6 +1858,19 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "Klir.TechChallenge.Adapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Klir.TechChallenge.UseCase": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Klir.TechChallenge.Adapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Klir.TechChallenge.Adapter.dll": {}
+        }
+      },
       "Klir.TechChallenge.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -6378,6 +6391,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "Klir.TechChallenge.Adapter/1.0.0": {
+      "type": "project",
+      "path": "../Klir.TechChallenge.Adapter/Klir.TechChallenge.Adapter.csproj",
+      "msbuildProject": "../Klir.TechChallenge.Adapter/Klir.TechChallenge.Adapter.csproj"
+    },
     "Klir.TechChallenge.Domain/1.0.0": {
       "type": "project",
       "path": "../Klir.TechChallenge.Domain/Klir.TechChallenge.Domain.csproj",
@@ -6392,6 +6410,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "FluentAssertions >= 5.10.3",
+      "Klir.TechChallenge.Adapter >= 1.0.0",
       "Klir.TechChallenge.Domain >= 1.0.0",
       "Klir.TechChallenge.UseCase >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -6433,6 +6452,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Adapter\\Klir.TechChallenge.Adapter.csproj": {
+              "projectPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Adapter\\Klir.TechChallenge.Adapter.csproj"
+            },
             "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Domain\\Klir.TechChallenge.Domain.csproj": {
               "projectPath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Domain\\Klir.TechChallenge.Domain.csproj"
             },
