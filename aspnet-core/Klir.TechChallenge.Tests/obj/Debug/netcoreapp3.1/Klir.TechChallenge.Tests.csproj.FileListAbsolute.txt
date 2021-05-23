@@ -190,3 +190,14 @@ C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\obj\Debug\
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Tests.dll
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Tests.pdb
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Tests.genruntimeconfig.cache
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\MathParser.org-mXparser.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.UseCase.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Tests\bin\Debug\netcoreapp3.1\Klir.TechChallenge.UseCase.pdb
