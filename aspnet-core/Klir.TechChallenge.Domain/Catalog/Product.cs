@@ -6,6 +6,7 @@ namespace Klir.TechChallenge.Domain.Catalog
 {
     public class Product
     {
+        public Product() { }
         public Product(int id, string name, int price, int? promotionId = null, string promotionName = null)
         {
             Id = id;
@@ -15,10 +16,10 @@ namespace Klir.TechChallenge.Domain.Catalog
             PromotionName = promotionName;
         }
 
-        public int Id { get; private set; }
-        public string Name { get; private set; }
-        public double Price { get; private set; }
-        public int? PromotionId { get; private set; }
-        public string PromotionName { get; private set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
+        public int? PromotionId { get; set; }
+        public string PromotionName { get; set; }
     }
 }

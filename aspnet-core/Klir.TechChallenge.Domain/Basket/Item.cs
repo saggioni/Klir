@@ -6,6 +6,7 @@ namespace Klir.TechChallenge.Domain.Basket
 {
     public class Item
     {
+        public Item() { }
         public Item(int productId, string productName, int quantity, double unitPrice, double totalPrice, int? promotionId = null, string promotionName = null)
         {
             ProductId = productId;
@@ -17,12 +18,12 @@ namespace Klir.TechChallenge.Domain.Basket
             PromotionName = promotionName;
         }
 
-        public int ProductId { get; private set; }
-        public string ProductName { get; private set; }
-        public double UnitPrice { get; private set; }
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+        public double UnitPrice { get; set; }
         public int Quantity { get; set; }
         public double TotalPrice { get; set; }
-        public int? PromotionId { get; private set; }
+        public int? PromotionId { get; set; }
         public string PromotionName { get; set; }
     }
 }

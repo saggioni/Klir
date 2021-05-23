@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>KlirTechChallenge.Web.Api</ActiveDebugProfile>
+    <ActiveDebugProfile>Klir.TechChallenge.Web.Api</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

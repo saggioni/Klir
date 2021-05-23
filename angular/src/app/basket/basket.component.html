@@ -1,0 +1,30 @@
+<app-product-list (addButtonClicked)="addBasketItem($event)"></app-product-list>
+
+<h1 id="tableLabel">Basket</h1>
+
+<p *ngIf="!items"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="items">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Quantity</th>
+      <th>Price</th>
+      <th>Total</th>
+      <th>Promotion Applied</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of items">
+      <td>{{ item.productId }}</td>
+      <td>{{ item.productName }}</td>
+      <td>{{ item.quantity }}</td>
+      <td>{{ item.unitPrice }}</td>
+      <td>{{ item.totalPrice }}</td>
+      <td>{{ item.promotionName }}</td>
+      <td><button type="button" class="btn btn-danger" (click)="remove(item)"> Remove</button></td>
+    </tr>
+  </tbody>
+</table>
