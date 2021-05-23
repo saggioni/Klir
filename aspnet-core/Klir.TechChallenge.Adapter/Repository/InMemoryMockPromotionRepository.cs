@@ -1,8 +1,6 @@
 ﻿using Klir.TechChallenge.Domain.Basket;
 using Klir.TechChallenge.UseCase.Basket.Port;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 
 namespace Klir.TechChallenge.Adapter.Repository

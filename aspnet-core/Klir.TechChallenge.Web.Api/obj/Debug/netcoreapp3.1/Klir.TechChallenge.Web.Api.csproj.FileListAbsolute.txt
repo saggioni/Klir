@@ -97,3 +97,10 @@ C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debu
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
 C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.genruntimeconfig.cache
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\MathParser.org-mXparser.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Adapter.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.UseCase.dll
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Adapter.pdb
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Domain.pdb
+C:\Users\saggioni\Documents\Klir\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.UseCase.pdb

@@ -1,6 +1,4 @@
-﻿using Klir.TechChallenge.Domain.Basket;
-using Klir.TechChallenge.UseCase.Basket.Port;
-using System;
+﻿using Klir.TechChallenge.UseCase.Basket.Port;
 
 namespace Klir.TechChallenge.UseCase.Basket
 {

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cQlGR8tJ2xsfAnVRgcMNTXBhpNfFwO9l51O15UgvbXuia7sMjY9HCn9mIK9hT/uimU1Hdz+YSo7WpbnsZcL0Xg==",
+  "dgSpecHash": "pwKebeemB7oZfiAH2/HtLqI8sBr5CBkpXc/7do5Q5DmwanNTvtrZu16zKPDJ00HpcQeRzDOGhBHf1iMu/NYLVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\saggioni\\Documents\\Klir\\aspnet-core\\Klir.TechChallenge.Web.Api\\Klir.TechChallenge.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saggioni\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\saggioni\\.nuget\\packages\\mathparser.org-mxparser\\4.4.2\\mathparser.org-mxparser.4.4.2.nupkg.sha512",
     "C:\\Users\\saggioni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\saggioni\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\saggioni\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
